@@ -54,5 +54,5 @@ require('packer').startup(function(use)
     use 'L3MON4D3/LuaSnip'
 
 	use 'adam-wolski/nvim-lsp-clangd-highlight'
-
+	use 'codeindulgence/vim-tig'
 end)

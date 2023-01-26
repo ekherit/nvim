@@ -58,4 +58,3 @@ defaults = {
 require'lspconfig'.clangd.setup({
 })
 
-
